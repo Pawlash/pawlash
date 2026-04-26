@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-## I'm Pawlash
+## I'm Paweł
 
 - 💻 Software engineer  
 - 💡 Passionate about technology
