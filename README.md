@@ -2,14 +2,11 @@
 
 ## I'm Pawlash
 
-- 🎓 **IT student**  
-- 🚀 **Always learning** new technologies  
-- 💻 Interested in software development, open source, and cool tech stuff!  
+- 💻 Software engineer  
+- 💡 Passionate about technology
 
 ---
 
 ### 📫 How to reach me:
-- **Discord:** `pawlash`  
-- **E-mail:** [pawlash333@gmail.com](mailto:pawlash333@gmail.com)
-
----
+- Discord: `pawlash`  
+- E-mail: pawlash333@gmail.com  
