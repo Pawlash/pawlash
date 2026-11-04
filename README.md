@@ -3,7 +3,7 @@
 ## I'm Paweł
 
 - 💻 Software engineer  
-- 💡 Passionate about technology
+- 🛠️ Building web apps from idea to launch
 
 ---
 
